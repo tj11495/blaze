@@ -3,3 +3,4 @@ build/
 size-plugin.json
 .vercel/
 .now/
+.env
